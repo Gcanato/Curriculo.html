@@ -1,0 +1,73 @@
+<!doctype html>
+
+<html>
+<head>
+    <title>Curriculo Html</title>    
+    <meta charset="UTF-8">
+    <style>
+        header, nav{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<!--Informações Pessoais-->
+<header>
+    <h1>Guilherme Henrique Canato</h1>
+        <p>Brasileiro - Solteiro - 24 Anos <br>
+        Rua Ana ventura Nitão n° 211 - 06290040 - Osasco - SP<br>
+        <b>Email:</b> canatogui@outlook.com <br>
+        <b>Linkdin:</b> linkdin.com/in/guilherme-canato
+    </p>
+
+    </header>
+    <nav>
+    <!--Obetivo-->        
+        <h2>Objetivo</h2>    
+        <p>Oportunidade na área de desenvolvimento</p>
+
+        <!--Apresentação-->
+        <h2>Apresentação</h2>
+              <p>- Excelente relacionamento interpessoal, dinâmico e autodidata.<br>
+               - Facilidade de trabalho em equipe. <br>
+               - Facilidade em lidar com pressão e apresentações ao publico. 
+              </p>
+
+              <!--Cursos livres-->
+       <h2>Cursos livres</h2>   
+              <p>
+                Técnicas de Invasão – Pentest <br>
+                Segurança da Informação. <br>
+                Programação orientada a objeto C# -  Udemy (Cursando). <br>
+                SQLOracle : Desvendando o banco de dados – Oracle<br>
+                HTML5 e CSS3 I: Suas primeiras páginas da web. <br>
+                JavaScript: Programado para web (Udemy). <br>
+                Python para Hacks (Cursando).
+              </p>
+              <!--Cursos-->
+        <h3>Idiomas</h3>      
+              <p>
+                  Inglês (cursando) Duolingo (Online) <br>
+                  Espanhol (cursando) Duolingo (Online)
+              </p>
+              <!--Formação academica-->
+        <h3>Formação acadêmica</h3>
+              <p>
+                  <b>Curso:</b> Analise de desenvolvimento de sistema <i>- Noturno</i>
+                  <br>
+                  <b>Universidade Nove de Julho (Uninove)- Barra-Funda-São Paulo. </b> 
+                </p>
+                  <!--Certificações-->
+        <h3>Certificações</h3>
+            <p>Linux Servers - Configuration & DevOps</p> <a href="https://drive.google.com/open?id=1I07e14UmtRINSPFcZoLoozcFxMY54fxS">Certificado</a>
+            <p>Introdução a linguagem HTML</p>  <a href="https://drive.google.com/open?id=1OCLyLS4LwSlzLSPAl8vvhQ_FXRcjN2dO">Certificado</a>
+            <p> Git & Github</p> <br>
+            <p>Linux System Administration</p>  <a href="https://drive.google.com/open?id=1I07e14UmtRINSPFcZoLoozcFxMY54fxS">Certificado</a>     
+        </nav>
+            
+
+
+
+
+</body>
+</html>
